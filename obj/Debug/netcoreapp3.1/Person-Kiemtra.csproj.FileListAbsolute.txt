@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Person-Kiemtra\bin\Debug\netcoreapp3.1\Person-Kiemtra.exe
+C:\Users\Administrator\source\repos\Person-Kiemtra\bin\Debug\netcoreapp3.1\Person-Kiemtra.deps.json
+C:\Users\Administrator\source\repos\Person-Kiemtra\bin\Debug\netcoreapp3.1\Person-Kiemtra.runtimeconfig.json
+C:\Users\Administrator\source\repos\Person-Kiemtra\bin\Debug\netcoreapp3.1\Person-Kiemtra.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Person-Kiemtra\bin\Debug\netcoreapp3.1\Person-Kiemtra.dll
+C:\Users\Administrator\source\repos\Person-Kiemtra\bin\Debug\netcoreapp3.1\Person-Kiemtra.pdb
+C:\Users\Administrator\source\repos\Person-Kiemtra\obj\Debug\netcoreapp3.1\Person-Kiemtra.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Person-Kiemtra\obj\Debug\netcoreapp3.1\Person-Kiemtra.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Person-Kiemtra\obj\Debug\netcoreapp3.1\Person-Kiemtra.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Person-Kiemtra\obj\Debug\netcoreapp3.1\Person-Kiemtra.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Person-Kiemtra\obj\Debug\netcoreapp3.1\Person-Kiemtra.dll
+C:\Users\Administrator\source\repos\Person-Kiemtra\obj\Debug\netcoreapp3.1\Person-Kiemtra.pdb
+C:\Users\Administrator\source\repos\Person-Kiemtra\obj\Debug\netcoreapp3.1\Person-Kiemtra.genruntimeconfig.cache
